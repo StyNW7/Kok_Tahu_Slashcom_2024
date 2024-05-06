@@ -1,21 +1,51 @@
-# Slashcom_2024 by Team "g"
+# Slashcom_2024 Code Repository oleh Team "g"
 
-Repository for Android Hackathon held by Slashcom 2024 Competition 🔥🔥
+Repository ini dibuat untuk ikut serta dalam perlombaan Android Hackathon yang diadakan oleh Slashcom 2024 🔥🔥
 
-### Overview
-
-...
-
-### Table of Contents
+## Daftar Isi
 
 ...
 
-### Made By
+## Gambaran Besar
 
-This Repository is made by Team "g":
+...
+
+## Cara Penggunaan Web
+
+### Langkah 1: ...
+
+...
+
+### Langkah 2: ...
+
+...
+
+## Penjelasan Web
+
+### Home Page
+
+...
+
+### Home Page
+
+...
+
+### Home Page
+
+...
+
+## Demo Video
+
+...
+
+## Translation
+
+## Detail Tim
+
+Repository ini dibuat oleh Tim "g":
 - Stanley Nathanael Wijaya
 - Visella
 
-From BINUS University Alam Sutera
+Dari Universitas Bina Nusantara (BINUS) Region Alam Sutera
 
-<code> This Repository is for a Hackathon Project </code> thanks :D
+<code> This Repository is for a Hackathon Project written in Indonesia </code> thanks :D
