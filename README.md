@@ -125,7 +125,7 @@ Website Kok Tahu menyediakan beberapa games pembelajaran interaktif seperti simu
 
 <br> <br>
 ### Halaman Kuis
-Untuk mengetahui sejauh mana tingkat pengetahuan pengguna, kami juga menyediakan kuis-kuis untuk setiap mata pelajaran Sekolah Dasar yang dilengkapi dengan timer dan lagu website Kok Tahu.
+Untuk mengetahui sejauh mana tingkat pengetahuan pengguna, kami juga menyediakan kuis-kuis untuk setiap mata pelajaran Sekolah Dasar yang dilengkapi dengan timer dan lagu website Kok Tahu. Tes juga tersedia dan diberikan waktu 5 menit untuk mengerjakan. Setelah pengerjaan, akan ditampilkan skor dan badge yang dapat diunduh.
 <br> <br>
 
 #### Section Latihan
