@@ -164,4 +164,4 @@ This repository was created by Team "g":
 
 From Bina Nusantara University (BINUS) Alam Sutera Campus
 
-<code> This Repository is for a Hackathon Project written in Indonesia </code> thanks :D
+<code> This Repository is for a Hackathon Project written in English </code> thanks :D
