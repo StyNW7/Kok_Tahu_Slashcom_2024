@@ -92,6 +92,10 @@ This About Page contains explanations about the "Kok Tahu?" Platform and about t
 
 #### About Web
 ![About Web](https://github.com/StyNW7/Slashcom_2024/assets/76080599/3ffc67cf-74f7-471a-a723-2cfb6df269a5)
+<br> <br>
+
+#### Kok Tahu Blog
+![Kok Tahu Blog](https://github.com/StyNW7/Slashcom_2024/assets/76080599/5c6e9175-df75-4804-8e92-fbec6eac4d0e)
 
 <!-- Module Page -->
 
