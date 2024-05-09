@@ -81,6 +81,10 @@ The Kok Tahu website offers several interactive educational games such as drum p
 #### Quiz
 To gauge the extent of students' knowledge, we also offer quizzes for each elementary school subject, equipped with a timer and the Kok Tahu website song.
 
+###Demo Video
+Our website demo has been published on the YouTube platform and can be accessed through this link:
+
+https://youtu.be/QzXOBQAW-dU
 ## Detail Tim
 
 Repository ini dibuat oleh Tim "g":
