@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kuis IPS</title>
+    <link rel="shortcut icon" href="../../Images/Stuff/kokTahu.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <!--- First Page--->
+
+    <section id="firstPg">
+        <h2 class="heading">Kuis IPS</h2>
+        <button class="btn" id="mode2">🎶</button>
+        <div class="btnCont">
+            <button class="btn" id="start">Mulai!</button>
+        </div>
+        <button class="btn dark" id="mode">🌙</button>
+    </section>
+    
+    <!---Quiz Page---->
+
+    <section id="main">
+
+        <div id="top">
+            <p id="QNum">1</p>
+            <div id="prog"></div>
+        </div>
+        
+        <div id="subHead"></div>
+
+        <div id="queCont">
+            <div id="queWrap">
+                <p id="que">Test Soal</p>
+                <button class="opt">1</button>
+                <button class="opt">2</button>
+                <button class="opt">3</button>
+                <button class="opt">4</button>
+            </div>
+        </div>
+
+        <div id="chngBtn">
+            <button id="prev">Prev</button>
+            <button id="nxt">Next</button>
+        </div>
+
+        <button id="submit">SUBMIT</button>
+        <button class="btn" id="mode3">🎶</button>
+        <button class="btn dark" id="mode4">🌙</button>
+
+    </section>
+    
+    <!----Result Page----->
+
+    <section id="resultPg" class="slideL">
+
+        <h2 class="heading">Kuis IPS</h2>
+        <div id="resultBox">
+            <h2>Hasil Kuis IPS</h2>
+            <p><b>Nilai</b><span>:</span><b id="score">15</b></p>
+            <p><b>Soal Terjawab</b><span>:</span><b id="atmptd"></b></p>
+            <p><b>Benar</b><span>:</span><b id="crct"></b></p>
+            <p><b>Salah</b><span>:</span><b id="incrct"></b></p>
+        </div>
+        <button class="btn" id="replay">Ulangi</button>
+        <button class="btn" onclick="home()">Menu Utama</button>
+
+    </section>
+
+    <audio id="audio" src="../../Images/Stuff/ToFu si Tahu.mp3"></audio>
+     
+    <script src="quizIPS.js"></script>
+    <script src="script.js"></script>
+
+</body>
+</html>
