@@ -9,15 +9,32 @@ Repository ini dibuat untuk ikut serta dalam perlombaan Android Hackathon yang d
 4. Demo Video
 
 ## Gambaran Besar
+
+### Nama Platform Website
+Kok Tahu?
+
+### Nama Maskot
+ToFu
+
+### Penjelasan
 Kami mengusulkan sebuah website dengan games yang dilengkapi modul pembelajaran, yaitu Kok Tahu? Para siswa dapat bermain berbagai macam permainan seperti quiz, simulasi alat musik, dan lain-lain. Jika user berhasil mencapai suatu level dalam game, mereka akan mendapatkan badge yang dapat dikumpulkan. Namun, jika user tidak berhasil, mereka dapat mempelajari kembali materi melalui modul yang telah disediakan. Pembuatan website dengan games pembelajaran ini akan membantu mengintegrasikan teknologi ke dalam pembelajaran sehingga membuat siswa lebih siap dalam menghadapi dunia modern yang serba digital.
 
 ## Ide Hackathon
+
+### Topik / Sub tema
+Penggabungan antara sub tema 1 yaitu "Pendidikan Inklusif" dan sub tema 2 yaitu "Media Kreatif Belajar"
+
+### Bahasa pemrograman yang digunakan dalam pengembangan web
+Bahasa Web yang kami gunakan adalah HTML, CSS, JavaScript, jQuery sebagai library untuk JavaScript. Kami juga ada menggunakan Framework Bootstrap untuk beberapa page tertentu dalam web kami agar pengerjaan web juga dapat dibuat dengan cepat mengingat waktu pengerjaan yang terbatas. Selain itu, kami juga ada menggunakan beberapa plugin external lainnya. Namun, secara garis besar, kami menggunakan bahasa web, HTML, CSS, dan JavaScript.
+
+### User Flow penggunaan aplikasi
+User flow penggunaan aplikasi kami adalah tampilan web pertama user merupakan bagian Home / Landing Page, yang dimana terdapat penjelasan singkat terkait web, pilihan modul yang disediakan, section games, testimoni, sponsor, dan footer. Adapun, fitur utama kami adalah modul, section games, kuis, dan test terkait berbagai mata pelajaran yang tersedia, sehingga user dari home page dapat memilih berbagai menu yang disediakan untuk memulai pembelajaran yang menyenangkan melalui apa yang sudah kami sediakan di platform kami. Jika user tidak dapat mengerjakan games dengan baik, disediakan juga modul agar user dapat memahami materi terlebih dahulu. Sehingga, diharapkan platform kami ini dapat membantu para pengguna untuk dapat belajar dengan cara yang menarik dan juga tetap bermanfaat.
 
 ### Latar Belakang Masalah
 Minat siswa merupakan salah satu faktor penting untuk keberhasilan proses pembelajaran. Kurangnya minat belajar siswa dapat membuat mereka kurang fokus dalam belajar. Kejenuhan belajar dapat ditandai dengan siswa yang tidak memperhatikan guru, tidur saat kelas, dan membolos pelajaran. 93,2% siswa mengalami bosan karena banyaknya kegiatan di sekolah selama 8 jam sehari karena metode mengajar tidak bervariasi menyebabkan siswa merasa bosan, jenuh dan mengantuk ketika proses belajar berlangsung. Ada beberapa masalah yang menjadi akar dari kejenuhan murid. Pertama, kurangnya keterlibatan siswa dalam pembelajaran. Biasanya, pembelajaran bersifat satu arah dan tidak melibatkan siswa secara aktif. Kedua, konsep abstrak dalam beberapa pelajaran sering kali sulit dipahami dengan teks dan penjelasan lisan. Ketiga, adanya perbedaan gaya belajar antar siswa sehingga suatu teknik belajar tidak akan cocok untuk semua murid.  
 
 ### Solusi
-Menurut sebuah studi yang diadakan di sebuah sekolah Sleman, teknik belajar menggunakan games terbukti menurunkan kejenuhan sekitar 15 persen. Dengan teknik pembelajaran ini, daya kritis, kreativitas, inovasi, strategi dan kemampuan penyelesaian masalah murid dapat terasah. Ada pula pemberian penghargaan pada games yang meningkatkan motivasi belajar dan memberikan kepuasan instan kepada murid. Oleh karena itu, kami mengusulkan sebuah solusi berupa website dengan games yang dilengkapi modul pembelajaran, yaitu Kok Tahu. Para siswa dapat bermain berbagai macam permainan seperti quiz, hangman, teka teki silang, simulasi alat musik, hingga 3d model. Jika user berhasil mencapai suatu level dalam game, mereka akan mendapatkan badge yang dapat dikumpulkan. Namun, jika user tidak berhasil, mereka dapat mempelajari kembali materi melalui modul yang telah disediakan. Pembuatan website dengan games pembelajaran ini akan membantu mengintegrasikan teknologi ke dalam pembelajaran sehingga membuat siswa lebih siap dalam menghadapi dunia modern yang serba digital.
+Menurut sebuah studi yang diadakan di sebuah sekolah Sleman, teknik belajar menggunakan games terbukti menurunkan kejenuhan sekitar 15 persen. Dengan teknik pembelajaran ini, daya kritis, kreativitas, inovasi, strategi dan kemampuan penyelesaian masalah murid dapat terasah. Ada pula pemberian penghargaan pada games yang meningkatkan motivasi belajar dan memberikan kepuasan instan kepada murid. Oleh karena itu, kami mengusulkan sebuah solusi berupa website dengan games yang dilengkapi modul pembelajaran, yaitu Kok Tahu. Para siswa dapat bermain berbagai macam permainan seperti quiz, hangman, teka teki silang, dan simulasi alat musik. Jika user berhasil mencapai suatu level dalam game, mereka akan mendapatkan badge yang dapat dikumpulkan. Namun, jika user tidak berhasil, mereka dapat mempelajari kembali materi melalui modul yang telah disediakan. Pembuatan website dengan games pembelajaran ini akan membantu mengintegrasikan teknologi ke dalam pembelajaran sehingga membuat siswa lebih siap dalam menghadapi dunia modern yang serba digital.
 
 ### Rencana kedepannya
 Kami masih memiliki rencana untuk menghubungkan aplikasi ini dengan sistem back-end, namun tidak memungkinkan karena mengingat waktu yang cukup singkat. Untuk kedepannya kami akan menambah varietas games sehingga user tidak jenuh. Kami juga berencana untuk menambah fitur “Guru” sehingga tenaga kependidikan seperti guru dapat menyesuaikan pertanyaan-pertanyaan dalam games sesuai keinginan masing-masing. 
@@ -41,12 +58,16 @@ Adapun, jika user ingin clone repository melalui url, user dapat menggunakan url
 
 ### Langkah 2: File index.html
 
-Langkah terakhir adalah bahwa file utama daripada Website kami ini adalah file yang memiliki nama "index.html" dan berada pada directory terluar pada Repository ini
+Langkah terakhir adalah bahwa file utama daripada Website kami ini adalah file yang memiliki nama "index.html" dan berada pada directory terluar pada Repository ini.
+<br> <br>
+Sehingga, jika ingin menjalankan secara local, pastikan bahwa file index.html yang terbuka pada local host yang dijalankan
 
 ## Penjelasan Web
 
 ### Home Page
-Home Page berisi informasi singkat tentang website Kok Tahu, dilengkapi dengan rekomendasi modul, games interaktif, dan testimoni.
+Home Page berisi informasi singkat tentang website Kok Tahu, dilengkapi dengan rekomendasi modul pembelajaran, games interaktif, section kuis, dan testimoni.
+
+
 
 ### Module
 Module berisi modul-modul pembelajaran untuk setiap mata pelajaran Sekolah Dasar dan dapat diunduh.
