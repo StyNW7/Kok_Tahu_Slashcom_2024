@@ -64,6 +64,9 @@ https://youtu.be/QzXOBQAW-dU
 
 ## Translation
 
+Kami menyediakan penjelasan juga dalam versi Bahasa Inggris yang dapat diakses pada file berikut ini:
+
+<a href="Translation/English.md"> English Translation </a>
 
 ## Detail Tim
 
