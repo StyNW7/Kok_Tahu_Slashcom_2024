@@ -62,11 +62,11 @@ Langkah terakhir adalah bahwa file utama daripada Website kami ini adalah file y
 <br> <br>
 Sehingga, jika ingin menjalankan secara local, pastikan bahwa file index.html yang terbuka pada local host yang dijalankan
 
-## Penjelasan Web
+## Penjelasan dan Tampilan Web
 
 <!-- Home Page -->
 
-### Home Page
+### Halaman Home
 Home Page berisi informasi singkat tentang website Kok Tahu, dilengkapi dengan rekomendasi modul pembelajaran, games interaktif, section kuis, testimoni, dan lain sebagainya
 <br> <br>
 
@@ -78,7 +78,8 @@ Home Page berisi informasi singkat tentang website Kok Tahu, dilengkapi dengan r
 
 <!-- About Page -->
 
-### About Page
+<br> <br>
+### Halaman About
 About Page ini berisi tentang penjelasan Platform "Kok Tahu?" dan tentang developers yang membuat Website ini
 <br> <br>
 
@@ -91,7 +92,8 @@ About Page ini berisi tentang penjelasan Platform "Kok Tahu?" dan tentang develo
 
 <!-- Module Page -->
 
-### Module
+<br> <br>
+### Halaman Modul
 Module berisi modul-modul pembelajaran untuk setiap mata pelajaran Sekolah Dasar dan dapat diunduh secara gratis
 <br> <br>
 
@@ -104,7 +106,8 @@ Module berisi modul-modul pembelajaran untuk setiap mata pelajaran Sekolah Dasar
 
 <!-- Games Page -->
 
-### Games
+<br> <br>
+### Halaman Games
 Website Kok Tahu menyediakan beberapa games pembelajaran interaktif seperti simulasi bermain drum, simulasi piano, game tebak nomor, kalkulator, dan tantangan matematika. Kami juga menyediakan chatbot untuk menjawab pertanyaan-pertanyaan seputar website Kok Tahu.
 <br> <br>
 
@@ -117,7 +120,8 @@ Website Kok Tahu menyediakan beberapa games pembelajaran interaktif seperti simu
 
 <!-- Exercise Page -->
 
-### Kuis
+<br> <br>
+### Halaman Kuis
 Untuk mengetahui sejauh mana tingkat pengetahuan pengguna, kami juga menyediakan kuis-kuis untuk setiap mata pelajaran Sekolah Dasar yang dilengkapi dengan timer dan lagu website Kok Tahu.
 <br> <br>
 
