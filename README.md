@@ -23,18 +23,20 @@ Repository ini dibuat untuk ikut serta dalam perlombaan Android Hackathon yang d
 ## Penjelasan Web
 
 ### Home Page
-Home Page berisi informasi singkat tentang website Kok Tahu, dilengkapi dengan rekomendasi modul, games interaktif, dan testimoni
+Home Page berisi informasi singkat tentang website Kok Tahu, dilengkapi dengan rekomendasi modul, games interaktif, dan testimoni.
 
 ### Module
-
-...
+Module berisi modul-modul pembelajaran untuk setiap mata pelajaran Sekolah Dasar dan dapat diunduh.
 
 ### Games
-Website Kok Tahu menyediakan beberapa games pembelajaran interaktif seperti simulasi bermain drum, 
-...
+Website Kok Tahu menyediakan beberapa games pembelajaran interaktif seperti simulasi bermain drum, simulasi piano, game tebak nomor, kalkulator, dan tantangan matematika. Kami juga menyediakan chatbot untuk menjawab pertanyaan-pertanyaan seputar website Kok Tahu.
+
+### Kuis
+Untuk mengetahui sejauh mana tingkat pengetahuan murid, kami juga menyediakan kuis-kuis untuk setiap mata pelajaran Sekolah Dasar yang dilengkapi dengan timer dan lagu website Kok Tahu.
 
 ## Demo Video
 Demo website kami telah dipublish di platform YouTube yang dapat diakses melalui link ini
+
 https://youtu.be/QzXOBQAW-dU
 
 ## Translation
