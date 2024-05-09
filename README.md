@@ -23,19 +23,19 @@ Repository ini dibuat untuk ikut serta dalam perlombaan Android Hackathon yang d
 ## Penjelasan Web
 
 ### Home Page
+Home Page berisi 
+...
+
+### Module
 
 ...
 
-### Home Page
-
-...
-
-### Home Page
+### Games
 
 ...
 
 ## Demo Video
-
+https://youtu.be/QzXOBQAW-dU
 ...
 
 ## Translation
