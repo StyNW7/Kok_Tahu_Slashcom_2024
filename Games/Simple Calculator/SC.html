@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="../../Images/Stuff/kokTahu.png" type="image/x-icon">
+    <script src="https://code.jquery.com/jquery-3.1.1.js"></script>
+    <link rel="stylesheet" href="SC.css">
+    <script src="SC.js"></script>
+    <title>Simple Calculator</title>
+</head>
+<body>
+    <div class="container">
+        
+        <input type="text" class="board" id="result" placeholder="Masukkan kalkulasimu"/>
+        
+        <div id="pad">
+        
+        <div class="set">
+        
+            <button onclick="display('7')" value="7" class="button" id="normal">7</button>
+            <button onclick="display('8')" value="8" class="button" id="normal">8</button>
+            <button onclick="display('9')" value="9" class="button" id="normal">9</button>
+            <button onclick="display('%')" value="%" class="button" id="operator">%</button>
+            <button onclick="clr()" class="button" id="clear">C</button>
+        </div>
+        
+        <div class="set">
+            <button onclick="display('4')" value="4" class="button" id="normal">4</button>
+            <button onclick="display('5')" value="5" class="button" id="normal">5</button>
+            <button onclick="display('6')" value="6" class="button" id="normal">6</button>
+            <button onclick="display('*')" value="*" class="button" id="operator">×</button>
+            <button onclick="display('/')" value="/" class="button" id="operator">÷</button>
+        </div>
+        
+        <div class="set">
+            <button onclick="display('1')" value="1" class="button" id="normal">1</button>
+            <button onclick="display('2')" value="2" class="button" id="normal">2</button>
+            <button onclick="display('3')" value="3" class="button" id="normal">3</button>
+            <button onclick="display('+')" value="+" class="button" id="operator">+</button>
+            <button onclick="display('-')" value="-" class="button" id="operator">-</button>
+        </div>
+        
+        <div class="set">
+            <button onclick="display('.')" value="." class="button" id="other">.</button>
+            <button onclick="display('0')" value="0" class="button" id="normal">0</button>
+            <button onclick="del()" id="other" class="button">DEL</button>
+            <button id="equal" onclick="solver()" class="button">=</button>
+        </div>
+        
+            </div>
+        </div>
+</body>
+</html>

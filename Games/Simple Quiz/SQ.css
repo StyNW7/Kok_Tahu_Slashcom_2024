@@ -1,0 +1,220 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body {
+   /* background: linear-gradient(-125deg, #6252f3, #ff6d6d); */
+   background-color: #3090d4;
+   justify-content: center;
+   align-items: center;
+   text-align:center;
+   display: flex;
+   min-height:100vh;
+}
+
+#beginning {
+   justify-content: center;
+   align-items: center;
+   text-align:center;
+}
+
+#titleText {
+   color:rgb(255, 248, 239);
+   text-align: center;
+   font-size: 45px;
+}
+
+#start {
+   padding: 30px 50px;
+   background: linear-gradient(-67deg, #4cb952, #0faa50);
+   border: 3.5px white groove;
+   color:#fff;
+   font-size:30px;
+   border-radius: 5.5px;
+   transition: 1000ms;
+}
+
+#start:hover {
+   background: linear-gradient(-67deg, #b94c4c, #aa0f0f);
+   border: 3.5px #ddd inset;
+}
+
+#container{
+   border:1px solid white;
+   border-radius:10px;
+   box-shadow:5px 7px 4.5px rgba(200,200,200,0.5),3px 5px 5.5px rgba(175,175,175,0.2);
+   background: linear-gradient(#A6CF98, #f2ffe9);
+   justify-content: center;
+   align-items: center;
+   text-align:center;
+   width: 370px;
+   padding: 15px 10px;
+   display: none;
+}
+
+.header{
+   text-align:center;
+}
+
+.header h1{
+   font-size:30px;
+   padding-top:10px;
+   margin:0px;
+}
+
+.header h5{
+   padding:0px;
+   margin:0px;
+   font-size:20px;
+}
+
+.answerbox{
+   width:100%;
+   height:10vh;
+   margin-top:20px;
+}
+
+.answerbox form{
+   width:80%;
+   height:90%;
+   margin:auto ;
+}
+
+.answerinputbox{
+   outline:none;
+   width:100%;
+   height:100%;
+   border-radius:10px;
+   font-size:30px;
+   border:1px solid #dfe4ea;
+   box-shadow: 2px 2px 2px 0 #dfe4ea inset, -2px -2px 2px 0 #fff inset;
+   text-align:center ;
+   background-color:white;
+   color: green;
+}
+
+.question {
+   margin:auto ;
+   width:250px;
+   height:10vh;
+   margin-bottom:5px;
+   display:flex;
+}
+
+.num input{
+   width:100px;
+   height:55px;
+   border:1px solid #dfe4ea;
+   border-radius:10px;
+   margin-top:10px;
+   font-size:30px;
+   text-align:center ;
+   background-color: white;
+}
+
+.symbol{
+   font-size:55px;
+   vertical-align:baseline;
+}
+
+.symbol span{
+   margin: 0 10px;
+   vertical-align:baseline;
+}
+
+.numpad {
+   width:98%;
+   margin: auto;
+   height:51%;
+}
+
+table{
+   width:100%;
+   height:100%;
+   padding:7px;
+}
+
+.btn{
+   width:80px;
+   height:50px;
+   border-radius:10px;
+   background-color:white;
+   border:1px solid lightgray ;
+   margin:10px;
+   font-size:30px;
+}
+
+.btn:hover, .btn:active {
+   outline: none;
+}
+
+.btn:active {
+   transform:scale(0.75);
+}
+
+.submit{
+   color:green;
+}
+
+.clear{
+   color:red;
+}
+
+.board {
+   text-align:left;
+   font-weight:450;
+   font-size:15px;
+   padding: 2px 2px;
+}
+
+
+#board {
+   background-color:#fefefe;
+   justify-content: center;
+   align-items: center;
+   text-align:center;
+   display:block;
+   position:relative;
+   padding:17.5px;
+   height:auto;
+   width:750px;
+   border-radius:25px 2px;
+   border: groove 3.5px #ddd;
+   top:0;
+   left:0;
+   margin:12px;
+   line-height:2;
+   display: none;
+}
+
+#true {
+   background: linear-gradient(-67deg, green, darkgreen);
+}
+
+.scoreButton {
+   border: none;
+   color:#fff;
+   font-size:18px;
+   margin:20px 0px;
+   border-radius: 5.5px;
+   padding: 10px 20px;
+}
+
+button:hover, button:active {
+   outline:none;
+}
+
+#false {
+   background: linear-gradient(-67deg, red, darkred);
+}
+
+#restart {
+   background: linear-gradient(-67deg, darkorange, orange);
+}
+
+#scoreBoard {
+   color: #acacff;
+   font-size: 40pt;
+}

@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+* {
+     box-sizing:border-box;
+     margin:0;
+     padding:0;
+     font-family:"Poppins", sans-serif;
+ }
+body {
+    background:linear-gradient(#faea5a, #0fa37d);
+    min-height:100vh;
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+    display:flex;
+}
+.container {
+    background-color:#2a2a2a;
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+    display:block;
+    position:relative;
+    padding:17.5px;
+    /*margin-top:17.5px;*/
+    height:340px;
+    width:400px;
+    border-radius:25px;
+    box-shadow:5px 7px 7.5px rgba(0,0,0,0.5),3px 5px 5.5px rgba(0,0,0,0.2);
+    top:0;
+    left:0;
+    margin:12px;
+}
+.board{
+    background:#dfdfdf;
+    color:111;
+    width:100%;
+    height:50px;
+    font-size:14pt;
+    padding:8px;
+    border: none;
+}
+#pad {
+    display:block;
+    position:relative;
+    width:100%;
+    height:100%;
+    margin:4% 10px 4% 0;
+    border-radius:10px;
+}
+.set {
+    display:block;
+    position:relative;
+    max-width:100%;
+}
+.button {
+    padding:5px;
+    margin:5px;
+    width:45px;
+    height:45px;
+    border: none;
+    display:inline-block ;
+    outline:none;
+    transition-duration:175ms;
+    position:relative ;
+    color:#000;
+    font-size:18px;
+}
+button:active {
+    transform:scale(0.75);
+}
+.right {
+    border-right:5px groove #ffdb58;
+}
+#normal {
+    background-color:#efefef;
+    border-radius:50%;
+}
+#equal {
+    width:31.5%;
+    background-color:#ffdb58;
+}
+#operator {
+    background-color:#5d9ef1;
+    color:#fff;
+    border-radius:50%;
+}
+#other {
+    background-color:#2eecad;
+    border-radius:50%;
+}
+#clear {
+    background-color:#f4efd4;
+}
+
+@media (max-width: 353px) {
+    .button {
+        padding:5px;
+        margin:5px;
+        width:35px;
+        height:35px;
+        border: none;
+        display:inline-block ;
+        outline:none;
+        transition-duration:175ms;
+        position:relative ;
+        color:#000;
+        font-size:16px;
+    }
+
+    .container {
+        height:300px;
+    }
+
+    .board{
+        background:#dfdfdf;
+        color:111;
+        width:100%;
+        height:50px;
+        font-size:12pt;
+        padding:8px;
+        border: none;
+    }
+}

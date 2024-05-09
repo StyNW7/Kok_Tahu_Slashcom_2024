@@ -1,0 +1,63 @@
+.main {
+    height: 470px;
+    padding: 20px;
+    background-image: url('https://img.freepik.com/premium-vector/chatbot-icon-concept-chat-bot-chatterbot-robot-virtual-assistance-website_123447-1615.jpg?w=2000');
+    border-radius: 10px 10px 0px 0px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    background-size: 120%;
+    background-position: center;
+    box-shadow: inset 0px 0px 10px -5px rgb(160, 160, 160);
+    background-repeat: no-repeat;
+    opacity: .7
+}
+#inp_text {
+    border-radius: 20px;
+    border-radius: 0px 0px 0px 20px;
+    box-shadow: inset 0px 0px 5px -2px rgb(160, 160, 160);
+}
+.main::-webkit-scrollbar {
+    width: 8px;
+    border-radius: 10px;
+    background-color: rgb(233, 233, 233);
+    box-shadow: inset 0px 0px 5px -2px rgb(160, 160, 160);
+}
+.main::-webkit-scrollbar-thumb {
+    background: dodgerblue;
+    border-radius: 10px;
+}
+.main::-webkit-scrollbar-thumb:hover {
+    background: rgb(14, 129, 243);
+}
+.response {
+    width: fit-content;
+    background-color: #fff;
+    max-width: 75%;
+    padding: 10px;
+    margin-right: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px -6px #000;
+    z-index: 1
+}
+.request {
+    width: fit-content;
+    background-color: #bcf388;
+    max-width: 75%;
+    padding: 10px;
+    margin-left: auto;
+    margin-top: 20px;
+    box-shadow: 2px 2px 10px -6px #000;
+    z-index: 1
+}
+#outer {
+    box-shadow: 5px 5px 40px -15px rgb(151, 151, 151);
+}
+#send{
+    border-radius: 0px 0px 20px;
+}
+.img img{
+position: absolute;
+width: 300px;
+z-index: -1
+}

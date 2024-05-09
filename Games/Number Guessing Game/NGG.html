@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Number Guessing Game</title>
+    <link rel="shortcut icon" href="../../Images/Stuff/kokTahu.png" type="image/x-icon">
+    <link rel="stylesheet" href="NGG.css">
+    <script src="NGG.js"></script>
+</head>
+<body>
+    
+    <div class="container">
+        
+        <h1>Tebak Angka Random</h1>
+            
+        <h3>Range angka: 1 - 100</h3>
+        
+        <h3>Bisakah kamu menebaknya?</h3>
+    
+        <input type="text" placeholder="Num" id="guess"><br>
+        
+        <button onclick="play()" id="my_btn">TEBAK</button>
+        
+        <button id="restart" onClick="window.location.reload();">RESET</button>
+        
+        <p id="message1">Hint: Coba tebak dulu</p>
+        
+        <p id="message2">Life: 10 Kesempatan</p>
+        
+        <p id="message3">Tebakan sebelumnya: -</p>
+        
+        </div>
+
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="../../Images/Stuff/kokTahu.png" type="image/x-icon">
+    <title>Hangman Game</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="word-list.js" defer></script>
+    <script src="script.js" defer></script>
+</head>
+<body>
+
+    <div class="game-modal">
+        <div class="content">
+            <img src="#" alt="gif">
+            <h4>Game Berakhir!</h4>
+            <p>Kata tersebut adalah: <b>rainbow</b></p>
+            <button class="play-again">Main lagi</button>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="hangman-box">
+            <img src="#" draggable="false" alt="hangman-img">
+            <h1>Hangman Game</h1>
+        </div>
+        <div class="game-box">
+            <ul class="word-display"></ul>
+            <h4 class="hint-text">Clue: <b></b></h4>
+            <h4 class="guesses-text">Kesalahan Tebak: <b></b></h4>
+            <div class="keyboard"></div>
+        </div>
+    </div>
+    
+</body>
+</html>

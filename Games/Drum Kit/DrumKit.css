@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+    background-color: #010E6C;
+}
+
+::-webkit-scrollbar{
+    width: 10px;
+    height: 5px;
+}
+
+::-webkit-scrollbar-track{
+    box-shadow: inset 0 0 8px rgba(0,0,0,0.2);
+}
+
+::-webkit-scrollbar-thumb{
+    background: #3090d4;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 5rem;
+    color: #B983FF;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #9C1AE0;
+}
+
+span {
+    font-size: 4rem;
+}
+
+.set {
+    margin: 3.5% auto;
+}
+
+.drum {
+    outline: none;
+    border: 10px solid #99DDCC ;
+    font-size: 5rem;
+    line-height: 2;
+    font-weight: 900;
+    color: #FF5EA2;
+    text-shadow: 3px 0 #87AAAA;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+}

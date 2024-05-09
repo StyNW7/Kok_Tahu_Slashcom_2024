@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Math Quiz</title>
+    <link rel="shortcut icon" href="../../Images/Stuff/kokTahu.png" type="image/x-icon">
+    <link rel="stylesheet" href="SQ.css">
+    <script src="SQ.js"></script>
+</head>
+<body>
+
+    <div id="beginning">
+
+        <h1 id="titleText">Kuis Matematika Sederhana</h1>
+
+        <br>
+
+        <button id="start" onclick="startGame()">
+            Mulai kuis!
+        </button>
+
+    </div>
+    
+    <div id="container">
+    
+        <div class="board">
+            <p id="timer">Timer: 30s</p>
+            <p id="score">Score: 0</p>
+        </div>
+        
+        <div class="question">
+            <div class="num">
+                <input id="number1" type="number" disabled>
+                </input>
+            </div>
+            
+            <div class="symbol">
+                <span id="operators">+</span>
+            </div>
+            
+            <div class="num">
+                <input id="number2" type="number" disabled>
+                </input>
+            </div>
+        </div>
+        
+        <div class="answerbox">     
+            <form disabled>
+                <input class="answerinputbox" type="text" id="answer" placeholder="Your Answer">
+                </input>
+            </form>
+        </div>
+        
+        <div class="numpad">
+            <table>
+                <tr>
+                    <td><button class="btn" onclick="display('1')" value="1">1</button></td>
+                    <td><button class="btn" onclick="display('2')" value="2">2</button></td>
+                    <td><button class="btn" onclick="display('3')" value="3">3</button></td>
+                </tr>
+                <tr>
+                    <td><button class="btn" onclick="display('4')" value="4">4</button></td>
+                    <td><button class="btn" onclick="display('5')" value="5">5</button></td>
+                    <td><button class="btn" onclick="display('6')" value="6">6</button></td>
+                </tr>
+                <tr>
+                    <td><button class="btn" onclick="display('7')" value="7">7</button></td>
+                    <td><button class="btn" onclick="display('8')" value="8">8</button></td>
+                    <td><button class="btn" onclick="display('9')" value="9">9</button></td>
+                </tr>
+                
+                <tr>
+                    <td>
+                    <button class="btn" onclick="display('-')" value="-">-</button>
+                    </td>
+                    <td><button class="btn" onclick="display('0')" value="0">0</button>
+                    </td>
+                    <td><button onclick="display('.')" value="." class="btn">.</button>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td><button class="btn clear" onclick="clr()">C</button>
+                    </td>
+                    <td><button onclick="del()" class="btn">DEL</button>
+                    </td>
+                    <td><button onclick="calculate()" class="btn submit">=</button>
+                    </td>
+                </tr>
+            </table>
+            
+            <div>
+                <h3 id="result"></h3>
+            </div>
+            
+        </div>
+        
+        
+        
+        </div>
+
+        <div id="board">
+        
+            <h1>Score: </h1>
+                
+            <h1 id="scoreBoard"></h1>
+            
+            <button id="true" class="scoreButton"></button>
+            
+            <button id="false" class="scoreButton"></button>
+
+            <br>
+
+            <button id="restart" class="scoreButton" onClick="window.location.reload();">RESET</button>
+
+            <h2 id="caption"></h2>
+            
+        </div>
+
+</body>
+</html>
