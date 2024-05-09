@@ -1,4 +1,4 @@
-# Slashcom_2024 Code Repository oleh Team "g"
+# Slashcom_2024 Code Repository oleh Tim "g"
 
 Repository ini dibuat untuk ikut serta dalam perlombaan Android Hackathon yang diadakan oleh Slashcom 2024 🔥🔥
 
