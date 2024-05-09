@@ -125,7 +125,7 @@ The Kok Tahu website provides several interactive learning games such as drum pl
 
 <br> <br>
 ### Quiz Page
-To assess the user's level of knowledge, we also provide quizzes for each subject of Elementary School equipped with a timer and the Kok Tahu website's song.
+To assess the user's level of knowledge, we also provide quizzes for each subject of Elementary School equipped with a timer and the Kok Tahu website's song. Tests are also available and given a 5-minute time limit for completion. After finishing, scores and badges that can be downloaded will be displayed.
 <br> <br>
 
 #### Exercise Section
