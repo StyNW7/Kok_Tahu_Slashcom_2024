@@ -3,10 +3,13 @@
 Repository ini dibuat untuk ikut serta dalam perlombaan Android Hackathon yang diadakan oleh Slashcom 2024 🔥🔥
 
 ## Daftar Isi
-1. Gambaran Besar
-2. Cara Penggunaan Web
-3. Penjelasan Web
-4. Demo Video
+1. [Gambaran Besar](https://github.com/StyNW7/Slashcom_2024#Gambaran-Besar)
+2. [Cara Penggunaan Web](https://github.com/StyNW7/Slashcom_2024#Cara-Penggunaan-Web)
+3. [Ide Hackathon](https://github.com/StyNW7/Slashcom_2024#Ide-Hackathon)
+4. [Penjelasan dan Tampilan Web](https://github.com/StyNW7/Slashcom_2024#Penjelasan-dan-Tampilan-Web)
+5. [Demo Video](https://github.com/StyNW7/Slashcom_2024#Demo-Video)
+6. [Translation](https://github.com/StyNW7/Slashcom_2024#Translation)
+7. [Detail Tim](https://github.com/StyNW7/Slashcom_2024#Detail-Tim)
 
 ## Gambaran Besar
 
