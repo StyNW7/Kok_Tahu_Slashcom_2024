@@ -6,7 +6,7 @@ This repository was created to participate in the Android Hackathon competition 
 1. [Overview](#Overview)
 2. [How to Use the Website](#How-to-Use-the-Website)
 3. [Hackathon Idea](#Hackathon-Idea)
-4. [Explanation and Web Appearance](#Explanation-and-Web-Appearances)
+4. [Explanation and Web Appearances](#Explanation-and-Web-Appearances)
 5. [Demo Video](#Demo-Video)
 6. [Translation](#Translation)
 7. [Team Details](#Team-Details)
@@ -152,7 +152,7 @@ Our website demo has been published on the YouTube platform and can be accessed 
 
 We have also provided an explanation in English that can be accessed in the following file:
 
-[Indonesian Translation](https://github.com/StyNW7/Slashcom_2024/README.md)
+[Indonesian Translation](README.md)
 
 <!-- Team Details -->
 
