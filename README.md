@@ -23,20 +23,19 @@ Repository ini dibuat untuk ikut serta dalam perlombaan Android Hackathon yang d
 ## Penjelasan Web
 
 ### Home Page
-Home Page berisi 
-...
+Home Page berisi informasi singkat tentang website Kok Tahu, dilengkapi dengan rekomendasi modul, games interaktif, dan testimoni
 
 ### Module
 
 ...
 
 ### Games
-
+Website Kok Tahu menyediakan beberapa games pembelajaran interaktif seperti simulasi bermain drum, 
 ...
 
 ## Demo Video
+Demo website kami telah dipublish di platform YouTube yang dapat diakses melalui link ini
 https://youtu.be/QzXOBQAW-dU
-...
 
 ## Translation
 
