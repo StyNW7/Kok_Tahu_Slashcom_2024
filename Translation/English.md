@@ -150,9 +150,9 @@ Our website demo has been published on the YouTube platform and can be accessed 
 
 ## Translation
 
-We have also provided an explanation in English that can be accessed in the following file:
+We have also provided an explanation in Indonesian that can be accessed in the following file:
 
-[Indonesian Translation](README.md)
+[Indonesian Translation](https://github.com/StyNW7/Slashcom_2024/blob/main/README.md)
 
 <!-- Team Details -->
 
