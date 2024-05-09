@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test 1</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Aturan -->
+
+    <div class="form-wrapper2">
+        <div class="rules-modal">
+            <div class="rules-content">
+                <h2>Aturan Tes</h2>
+                <p>1. Isilah setiap pertanyaan dengan jujur dan benar.</p>
+                <p>2. Anda akan mendapatkan Medal apabila jawaban benar:</p>
+                <div class="medalScore">
+                    <ul>
+                        <li>Gold Medal: 18 pertanyaan</li>
+                        <li>Silver Medal: 15 pertanyaan</li>
+                        <li>Bronze Medal: 10 pertanyaan</li>
+                    </ul>
+                </div>
+                <p>3. Waktu pengerjaan tes adalah 5 menit.</p>
+                <p>4. Klik tombol "Mulai Tes" untuk memulai.</p>
+                <button class="formbold-btn start-test-button">Mulai Tes</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header -->
+
+    <header>
+        <div class="timer">
+            <div class="time_left_txt">Detik Tersisa:</div>
+            <div class="timer_sec">300</div>
+        </div>
+        <br>
+    </header>
+
+    <br>
+
+    <!-- Test -->
+
+    <div class="soal-quiz">
+        <div class="form-wrapper">
+            <form action="" method="POST">
+                <div class="atas">
+                    <h2>Pilihan Ganda</h2>
+                    <br>
+                    <div class="number"></div>
+                </div>
+                <br>
+                
+                <div class="isi">
+                    <h3>Isian</h3>
+                    <br>
+                    <div class="isian"></div>
+                </div>
+                <button class="formbold-btn">Submit</button>
+            </form>
+            
+        </div>
+    </div>
+
+    <!-- Result -->
+
+    <div class="result_box">
+        <div class="complete_text">Kamu telah menyelesaikan Test Ini</div>
+        <div class="score_text">
+        </div>
+        <div class="buttons">
+            <button class="download">Unduh Badge</button>
+            <button class="replay">Ulangi Tes</button>
+            <button class="keluar">Keluar Tes</button>
+        </div>
+    </div>
+
+    <!-- Script -->
+
+    <script src="questions.js"></script>
+    <script src="isian_q.js"></script>
+    <script src="script.js"></script>
+
+</body>
+
+</html>
