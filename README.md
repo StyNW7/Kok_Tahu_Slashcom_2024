@@ -170,3 +170,5 @@ Repository ini dibuat oleh Tim "g":
 Dari Universitas Bina Nusantara (BINUS) Region Alam Sutera
 
 <code> This Repository is for a Hackathon Project written in Indonesia </code> thanks :D
+
+Hasil Perlombaan: Website ini mendapat peringkat 6 dan gagal masuk 5 besar dengan perbedaan skor 0.17 dengan peringkat 5 (NT)
